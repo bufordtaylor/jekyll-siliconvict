@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Writing With Markdown"
-date: 2018-12-29T10:26:40+10:00
-authors: ["Sage Kirk", "Mike Vance"]
-categories: ["Development", "Javascript", "Web Design"]
+title: "On San Francisco"
+date: 2015-06-17T10:26:40+10:00
+authors: ["Buford Taylor"]
+categories: ["Reflection"]
 tags: ["Writing"]
-description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
+description: I've changed. San Francisco has changed. But our time together was perfect.
 thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
-image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
+image: "https://i.imgur.com/DNcDCdu.png"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+2Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 ## History
 
